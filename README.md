@@ -1,5 +1,4 @@
 
-# PhotoGrapherPortfolio
 # react-app-photographer_portfolio
 
 react-app-HooBank [LiveDemo](https://photo-grapher-portfolio.vercel.app/)
